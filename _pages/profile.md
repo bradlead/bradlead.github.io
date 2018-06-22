@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: /profile/
-title: ""
+title: "Profile"
 author_profile: true
 header:
-    image: "yotei.jpg"
-___
+    image: "/imgs/yotei.jpg"
+---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
