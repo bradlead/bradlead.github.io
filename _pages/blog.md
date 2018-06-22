@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /profile/
-title: "Profile"
+permalink: /blog/
+title: "Blog"
 author_profile: true
 header:
     image: "/imgs/yotei.jpg"

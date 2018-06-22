@@ -5,5 +5,4 @@ header:
     image: "/imgs/yotei.jpg"
 ---
 
-I'm currently studying software enginerring with MCR codes.
-etc
+I'm currently studying software engineering with MCR codes etc
