@@ -4,7 +4,7 @@ permalink: /blog/
 title: "Blog"
 author_profile: true
 header:
-    image: "/imgs/yotei.jpg"
+    overlay_image: "/imgs/yotei.jpg"
 ---
 
 {% include base_path %}
