@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /pages/about/
+permalink: /about/
 header: 
     image: "/imgs/yotei.jpg"
 ---
