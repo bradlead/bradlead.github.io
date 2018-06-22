@@ -6,4 +6,4 @@ header:
     Image: ""
 excerpt: "Using React to create a live weather app"
 ---
-# H1 Weather App Using React
+# Weather App Using React
