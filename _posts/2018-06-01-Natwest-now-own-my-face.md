@@ -1,5 +1,5 @@
 ---
-title: "Natwest now own my face"
+title: "Working at Natwest"
 date: 2018-06-01
 tags: [Qudini, Natwest]
 header:
