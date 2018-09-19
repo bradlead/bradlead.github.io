@@ -1,5 +1,5 @@
 ---
-title: "Mountains to Machines"
+title: "Skiing"
 date: 2018-06-01
 tags: [Skiing, Learning to code]
 header:
